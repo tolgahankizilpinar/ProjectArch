@@ -53,6 +53,8 @@
   <ItemGroup>
     <Compile Include="Context\ArchContext.cs" />
     <Compile Include="Context\CommonContext.cs" />
+    <Compile Include="GenericRepository\GenericRepository.cs" />
+    <Compile Include="GenericRepository\IGenericRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
